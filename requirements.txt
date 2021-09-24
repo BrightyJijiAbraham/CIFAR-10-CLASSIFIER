@@ -4,4 +4,4 @@ keras
 numpy
 opencv-python
 tensorflow
-mathplotlib
+matplotlib
